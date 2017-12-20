@@ -14,7 +14,7 @@ Ancak yarışmaya katılanlara sosyal destek sağlamaya çalışıyoruz:
  - 2Friday Youtube Kanalı üzerinden, hackathon'da üretilen projeler tanıtılıyor.
  
 ### 📅🏁 Sonuçlanma Tarihleri
-Yarışmacıların projelerini teslim tarihleri projeye başladıktan 2 hafta sonraki cuma günüdür. Teslim günü saat 10:00 da projelerini Youtube kanalımız üzerinden sunarlar.
+Yarışmacıların projelerini teslim tarihleri projeye başladıktan 2 hafta sonraki cuma günüdür. [Güncel Hackathon](https://github.com/2Friday/Hackathon/blob/master/Live.md) linki üzerinden tarih ve saatleri öğrenebilirsiniz. 
 
 ### ⛳ Sosyal Medya Sponsorları
   - İsminizi buraya ekleyebilirsiniz :)
