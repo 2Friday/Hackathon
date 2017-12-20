@@ -19,6 +19,6 @@ Yarışmacıların projelerini teslim tarihleri projeye başladıktan 2 hafta so
 ### ⛳ Sosyal Medya Sponsorları
   - İsminizi buraya ekleyebilirsiniz :)
 
-### Sıkça Sorulan Sorular
+### ❓ Sıkça Sorulan Sorular
   - Ekip Oluşturmak istiyorum, ekip arakadaşım yok? 
      - Ekip arkadaşı arayan yarışmacılar, isimlerini [Available People](https://github.com/2Friday/Hackathon/blob/master/AvailablePeople.md) sayfasına ekler. Ekip arkadaşı arayanlar yine bu sayfadan ekip arkadaşı bulabilir.
