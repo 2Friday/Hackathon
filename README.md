@@ -1,7 +1,7 @@
 # Hackathon
 ### 🆕 Devam eden 2Friday Hackathon'u : [Hello_World](https://github.com/2Friday/Hackathon/blob/master/Live.md)
 ### 🕘 Geçmiş Hackathonlar : Henüz geçmiş hackathon bulunmamaktadır. 
-
+### Sosyal Medyada 2Friday: [Youtube](https://www.youtube.com/channel/UCDijlt-IYXjAD57V1ux__RA), [Twitter]() 
 ### 🤔 Nedir?
 2Friday, alışılagelmiş hackathonların dışında, düzenli olarak iki haftada bir hackathon organize eder. Yarışmacılar dilediği zaman hackathon maratonuna dahil olur. 14 günde bir, cuma akşamı yarışmacılar canlı yayında projelerini tanıtırlar.
 
@@ -22,3 +22,6 @@ Yarışmacıların projelerini teslim tarihleri projeye başladıktan 2 hafta so
 ### ❓ Sıkça Sorulan Sorular
   - Ekip Oluşturmak istiyorum, ekip arakadaşım yok? 
      - Ekip arkadaşı arayan yarışmacılar, isimlerini [Available People](https://github.com/2Friday/Hackathon/blob/master/AvailablePeople.md) sayfasına ekler. Ekip arkadaşı arayanlar yine bu sayfadan ekip arkadaşı bulabilir.
+  - 2Friday Hackathon Ekibiyle Nasıl İletişime geçebilirim?
+     - 2friday.hackathon[at]gmail[dot]com Mail adresini kullanarak aklına takılanları bize sorabilirsin.
+  
