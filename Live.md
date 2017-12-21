@@ -10,3 +10,6 @@
 | ------------- | ------------- | ------------- | ------------- |
 |  - | - | - | - |
 |  - | - | - | - |
+
+## Nasıl Katılırım?
+  - Yukarıdaki tabloyu uygun formatta bilgilerinizi ekledikten sonra PR oluşturmanız katılımınız için yeterlidir.
