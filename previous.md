@@ -1,2 +1,2 @@
 # Geçmiş Hackathonlar
-Henü geçmiş hackathon bulunmamaktadır.
+Henüz geçmiş hackathon bulunmamaktadır.
