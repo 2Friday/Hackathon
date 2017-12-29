@@ -3,7 +3,7 @@
 ## Hello_World 
 | Hackathon Adı | Başvuru Başlangıcı | Başvuru Bitiş Tarihi | Konu |
 | ------------- | ------------- | ------------- | ------------- |
-| "Hello_World" | - 22 ARALIK 2017 CUMA - SAAT : 15.00  | - 05 OCAK 2018 CUMA - SAAT : 15.00 |
+| "Hello_World" | - 22 ARALIK 2017 CUMA - SAAT : 15.00  | - 05 OCAK 2018 CUMA - SAAT : 15.00 | Serbest |
 
   
 ### Katılımcılar
