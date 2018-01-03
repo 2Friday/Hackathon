@@ -19,7 +19,7 @@ Ancak yarışmaya katılanlara sosyal destek sağlamaya çalışıyoruz:
 Yarışmacıların projelerini teslim tarihleri projeye başladıktan 2 hafta sonraki cuma günüdür. [Güncel Hackathon](https://github.com/2Friday/Hackathon/blob/master/Live.md) linki üzerinden tarih ve saatleri öğrenebilirsiniz. 
 
 ### ⛳ Sosyal Medya Sponsorları
-  - İsminizi buraya ekleyebilirsiniz :)
+    - Sosyal medya elçisi olmak için iletişime geçmek çok kolay !: 2friday.hackathon[at]gmail[dot]com
 
 ### ❓ Sıkça Sorulan Sorular
   - Ekip Oluşturmak istiyorum, ekip arakadaşım yok? 
