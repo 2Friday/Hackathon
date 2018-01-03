@@ -1,9 +1,11 @@
-# Hackathon
+![2Friday Hackathon](https://i.hizliresim.com/XP7yao.png)
 ### 🆕 Devam eden 2Friday Hackathon'u : [Hello_World](https://github.com/2Friday/Hackathon/blob/master/Live.md)
 ### 🕘 Geçmiş Hackathonlar : Henüz geçmiş hackathon bulunmamaktadır. 
 ### Sosyal Medyada 2Friday: [Youtube](https://www.youtube.com/channel/UCDijlt-IYXjAD57V1ux__RA), [Twitter](https://twitter.com/_2friday) 
 ### 🤔 Nedir?
 2Friday, alışılagelmiş hackathonların dışında, düzenli olarak iki haftada bir hackathon organize eder. Yarışmacılar dilediği zaman hackathon maratonuna dahil olur. 14 günde bir, cuma akşamı yarışmacılar canlı yayında projelerini tanıtırlar.
+
+2Friday, sizin için yılınızı iki haftalık periyorlara böler. Projelerle değerlendirebileceğiniz 52 hafta var! İki haftada bir ürün ortaya çıkarttığınızı hayal edin, mükemmel değil mi?
 
 ### 🙋 Kimler Katılabilir?
 Değer katmaktan ve üretmekten zevk alan herkes.
