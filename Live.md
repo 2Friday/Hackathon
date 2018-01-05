@@ -7,9 +7,9 @@
 - Projelerin Teslim Adresi : ["RandomHack Proje Teslimi"](https://github.com/2Friday/Hackathon/issues/8)
   
 ## Katılımcılar
-| Proje Adı     | Grup Adı      | Grup Üyeleri  | Başlangıç Tarihi |
-| ------------- | ------------- | ------------- | -------------    |
-|  -            | -             | -             | -                |
+| Proje Adı     | Proje Özeti (Kısaca) | Grup Adı      | Grup Üyeleri  | Başlangıç Tarihi |
+| ------------- | ------------- | ------------- | ------------- | -------------    |
+|  -            | -             | -             | -             | -                |
 
 ## Nasıl Katılırım?
   - Yukarıdaki tabloyu uygun formatta bilgilerinizi ekledikten sonra PR oluşturmanız katılımınız için yeterlidir.
