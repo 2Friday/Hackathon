@@ -1,7 +1,7 @@
 ![2Friday Hackathon](https://i.hizliresim.com/XP7yao.png)
 ### 🆕 Devam eden 2Friday Hackathon'u : [Hello_World](https://github.com/2Friday/Hackathon/blob/master/Live.md)
 ### 🕘 Geçmiş Hackathonlar : [previous.md](https://github.com/2Friday/Hackathon/blob/master/previous.md)
-### Sosyal Medyada 2Friday: [Youtube](https://www.youtube.com/channel/UCDijlt-IYXjAD57V1ux__RA), [Twitter](https://twitter.com/_2friday) 
+###  Sosyal Medyada 2Friday: [Youtube](https://www.youtube.com/channel/UCDijlt-IYXjAD57V1ux__RA), [Twitter](https://twitter.com/_2friday) 
 ### 🤔 Nedir?
 2Friday, alışılagelmiş hackathonların dışında, düzenli olarak iki haftada bir hackathon organize eder. Yarışmacılar dilediği zaman hackathon maratonuna dahil olur. 14 günde bir, cuma akşamı yarışmacılar canlı yayında projelerini tanıtırlar.
 
