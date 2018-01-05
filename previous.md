@@ -1,6 +1,7 @@
 
 Daha önce yapılmış hackathon'ları ve hackathonlarda üretilmiş projeleri burada bulabilirsiniz.
-    - **ÖNEMLİ :**  Projenizi teslim etmek için, PR ile "previous.md" dosyasını örnek formattaki gibi güncellemelisiniz.
+
+ - **ÖNEMLİ :**  Projenizi teslim etmek için, PR ile "previous.md" dosyasını örnek formattaki gibi güncellemelisiniz.
     
 ## ⏰ Geçmiş Hackathonlar
 *   **[Hello_World ](#hello_world)**
