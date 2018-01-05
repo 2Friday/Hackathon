@@ -28,4 +28,4 @@ Yarışmacıların projelerini teslim tarihleri projeye başladıktan 2 hafta so
   - 2Friday Hackathon Ekibiyle Nasıl İletişime geçebilirim?
      - 2friday.hackathon[at]gmail[dot]com Mail adresini kullanarak aklına takılanları bize sorabilirsin.
   - Projemiz tamamlandı. Size nasıl teslim edeceğim?
-     - Her hackathon için bir issue bulunmakta (Örnek : ["Hello_World"](https://github.com/2Friday/Hackathon/issues). Projenizi teslim etmek için, ilgili issue altındaki pusulayı takip edebilirsiniz :)
+     - Her hackathon için bir issue bulunmakta (Örnek : ["Hello_World"](https://github.com/2Friday/Hackathon/issues/7). Projenizi teslim etmek için, ilgili issue altındaki pusulayı takip edebilirsiniz :) Tüm Issue'ler için [tıklayın.](https://github.com/2Friday/Hackathon/issues)
